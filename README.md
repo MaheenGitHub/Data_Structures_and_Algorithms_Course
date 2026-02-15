@@ -60,12 +60,12 @@ The course covers fundamental and advanced DSA concepts, including:
 ```bash
 DSA_Course/
 │
-├── Lab Manuals/
-├── Course Material/
-├── Notes/             (coming soon)
-├── Assignments/      
-├── Practice/          (coming soon)
+├── Assignments/
 ├── Book/              (coming soon)
+├── Course Material/
+├── Lab Manuals/
+├── Notes/             (coming soon)
+├── Practice/          (coming soon)
 └── README.md
 ```
 
