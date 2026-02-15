@@ -12,7 +12,7 @@ The goals of creating this repository are:
 🤝 To share knowledge for educational purposes only  
 
 ---
-## 📖 Table of Contents
+### 📖 Table of Contents
 - [Contents](#-contents)
 - [Topics Covered](#-topics-covered)
 - [Repository Structure](#-repository-structure)
@@ -24,7 +24,7 @@ The goals of creating this repository are:
 
 ---
 
-## 📚 Contents
+### 📚 Contents
 
 This repository will include:
 
@@ -35,9 +35,9 @@ This repository will include:
 - Course Book (reference material)  
 - Additional learning resources  
 
----
 
-## 🧠 Topics Covered
+
+### 🧠 Topics Covered
 
 The course covers fundamental and advanced DSA concepts, including:
 
@@ -53,12 +53,12 @@ The course covers fundamental and advanced DSA concepts, including:
 - Algorithm Complexity (Time and Space Complexity)  
 
 
----
+
+
+
+### 📂 Repository Structure
+
 ```bash
-
-
-## 📂 Repository Structure
-
 DSA_Course/
 │
 ├── Lab Manuals/
@@ -67,11 +67,11 @@ DSA_Course/
 ├── Book/ (coming soon)
 └── README.md
 ```
----
 
----
 
-## 🎯 Objectives
+
+
+### 🎯 Objectives
 
 The main objectives of this repository are:
 
@@ -80,27 +80,26 @@ The main objectives of this repository are:
 - To track my learning progress  
 - To build a strong foundation for technical interviews and software development  
 
----
 
-## 🚧 Status
+
+### 🚧 Status
 
 This repository is currently under progress. More material, notes, and implementations will be uploaded soon.
 
----
 
-## ⚠️ Disclaimer
+
+### ⚠️ Disclaimer
 
 All material shared here is strictly for educational purposes. Ownership of textbooks, PDFs, or any proprietary material belongs to the respective authors or institutions.
 
----
 
-## ⭐ Contribution
+### ⭐ Contribution
 
 If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
 
----
 
-## 👩‍💻 Maintained By
+
+### 👩‍💻 Maintained By
 
 **Maheen Fatima**  
 Student | Software Engineering  
