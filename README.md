@@ -81,7 +81,7 @@ This repository is currently in progress. More material, notes, and implementati
 
 
 
-### Disclaimer⚠️
+### ⚠️Disclaimer
 
 All material shared here is strictly for educational purposes. Ownership of textbooks, PDFs, or any proprietary material belongs to the respective authors or institutions.
 
