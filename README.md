@@ -61,6 +61,7 @@ The course covers fundamental and advanced DSA concepts, including:
 DSA_Course/
 │
 ├── Lab Manuals/
+├── Course Material/
 ├── Notes/             (coming soon)
 ├── Practice/          (coming soon)
 ├── Book/              (coming soon)
