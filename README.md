@@ -16,7 +16,6 @@ The goals of creating this repository are:
 - [Contents](#-contents)
 - [Topics Covered](#-topics-covered)
 - [Repository Structure](#-repository-structure)
-- [Objectives](#-objectives)
 - [Status](#-status)
 - [Disclaimer](#-disclaimer)
 - [Contribution](#-contribution)
@@ -71,14 +70,6 @@ DSA_Course/
 
 
 
-### 🎯 Objectives
-
-The main objectives of this repository are:
-
-- To maintain organized course material  
-- To practice and implement DSA concepts  
-- To track my learning progress  
-- To build a strong foundation for technical interviews and software development  
 
 
 
