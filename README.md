@@ -36,7 +36,7 @@ This repository will include:
 
 
 
-### 🧠 Topics Covered
+### Topics Covered
 
 The course covers fundamental and advanced DSA concepts, including:
 
@@ -73,18 +73,18 @@ DSA_Course/
 
 
 
-### 🚧 Status
+#### Status
 
 This repository is currently under progress. More material, notes, and implementations will be uploaded soon.
 
 
 
-### ⚠️ Disclaimer
+#### Disclaimer⚠️
 
 All material shared here is strictly for educational purposes. Ownership of textbooks, PDFs, or any proprietary material belongs to the respective authors or institutions.
 
 
-### ⭐ Contribution
+#### Contribution
 
 If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
 
