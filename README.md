@@ -97,11 +97,15 @@ All material shared here is strictly for educational purposes. Ownership of text
 
 If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
 
-
+---
 
 ### 👩‍💻 Maintained By
 
 **Maheen Fatima**  
 Student | Software Engineering  
 Learning Data Structures and Algorithms
+
+**📫 Connect with me:** 
+- [LinkedIn](https://www.linkedin.com/in/maheenfatimaa)
+- [View my Upwork Profile](https://www.upwork.com/freelancers/~017a150168182cf524?mp_source=share)
 
