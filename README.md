@@ -63,6 +63,7 @@ DSA_Course/
 ├── Lab Manuals/
 ├── Course Material/
 ├── Notes/             (coming soon)
+├── Assignments/       (coming soon)
 ├── Practice/          (coming soon)
 ├── Book/              (coming soon)
 └── README.md
