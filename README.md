@@ -64,7 +64,7 @@ DSA_Course/
 ├── Book/              (coming soon)
 ├── Course Material/
 ├── Lab Manuals/
-├── Notes/             (coming soon)
+├── Notes/             
 ├── Practice/          (coming soon)
 └── README.md
 ```
@@ -74,10 +74,6 @@ DSA_Course/
 
 
 
-
-### Status
-
-This repository is currently in progress. More material, notes, and implementations will be uploaded soon.
 
 
 
